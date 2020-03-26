@@ -4,7 +4,7 @@
 <meta charset="UTF-8"/>
 <title>List of Pokémon by shape - Bulbapedia, the community-driven Pokémon encyclopedia</title>
 <script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
-<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"List_of_Pokémon_by_shape","wgTitle":"List of Pokémon by shape","wgCurRevisionId":3121914,"wgRevisionId":3121914,"wgArticleId":42692,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Lists of Pokémon","Lists","Pokémon by body style"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"List_of_Pokémon_by_shape","wgRelevantArticleId":42692,"wgRequestId":"87575999f65720e6c5edc088","wgIsProbablyEditable":false,"wgRestrictionEdit":[],"wgRestrictionMove":["sysop"],"wgRedirectedFrom":"List_of_Pokémon_by_body_style","wgWikiEditorEnabledModules":{"toolbar":false,"dialogs":false,"preview":false,"publish":false},"wgPreferredVariant":"en","wgMFDisplayWikibaseDescriptions":{"search":false,"nearby":false,"watchlist":false,"tagline":false},"wgInternalRedirectTargetUrl":"/wiki/List_of_Pok%C3%A9mon_by_shape"});mw.loader.state({"site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"loading","user.tokens":"loading","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","mediawiki.skinning.content.externallinks":"ready","skins.monobook.styles":"ready"});mw.loader.implement("user.options@0j3lz3q",function($,jQuery,require,module){mw.user.options.set({"variant":"en"});});mw.loader.implement("user.tokens@0nrek0d",function ( $, jQuery, require, module ) {
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"List_of_Pokémon_by_shape","wgTitle":"List of Pokémon by shape","wgCurRevisionId":3121914,"wgRevisionId":3121914,"wgArticleId":42692,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Lists of Pokémon","Lists","Pokémon by body style"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"List_of_Pokémon_by_shape","wgRelevantArticleId":42692,"wgRequestId":"01fd248df2791c18bf8d222e","wgIsProbablyEditable":false,"wgRestrictionEdit":[],"wgRestrictionMove":["sysop"],"wgRedirectedFrom":"List_of_Pokémon_by_body_style","wgWikiEditorEnabledModules":{"toolbar":false,"dialogs":false,"preview":false,"publish":false},"wgPreferredVariant":"en","wgMFDisplayWikibaseDescriptions":{"search":false,"nearby":false,"watchlist":false,"tagline":false},"wgInternalRedirectTargetUrl":"/wiki/List_of_Pok%C3%A9mon_by_shape"});mw.loader.state({"site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"loading","user.tokens":"loading","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","mediawiki.skinning.content.externallinks":"ready","skins.monobook.styles":"ready"});mw.loader.implement("user.options@0j3lz3q",function($,jQuery,require,module){mw.user.options.set({"variant":"en"});});mw.loader.implement("user.tokens@0nrek0d",function ( $, jQuery, require, module ) {
 mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});/*@nomin*/;
 
 });mw.loader.load(["mediawiki.action.view.redirect","mediawiki.toc","mediawiki.action.view.postEdit","site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest"]);});</script>
@@ -10210,51 +10210,49 @@ Retrieved from "<a dir="ltr" href="https://bulbapedia.bulbagarden.net/w/index.ph
 		</div>
 		</div>
 		<!-- Debug output:
-IP: 107.178.194.109
+IP: 81.97.99.245
 Start request GET /wiki/List_of_Pok%C3%A9mon_by_body_style
 HTTP HEADERS:
 HOST: bulbapedia.bulbagarden.net
-ACCEPT: text/html, application/rss+xml, application/atom+xml, text/xml, text/rss+xml
+ACCEPT: */*
 CDN-LOOP: cloudflare
-CF-CONNECTING-IP: 107.178.194.109
-CF-IPCOUNTRY: US
-CF-RAY: 57a075b4afbbec8a-DFW
+CF-CONNECTING-IP: 81.97.99.245
+CF-IPCOUNTRY: GB
+CF-RAY: 57a052faadf4ce43-LHR
 CF-VISITOR: {"scheme":"https"}
-CONTENT-TYPE: ; charset="utf-8"
-USER-AGENT: Mozilla/5.0 (compatible; SemrushBot/6~bl; +http://www.semrush.com/bot.html) AppEngine-Google; (+http://code.google.com/appengine; appid: s~they-encounter-hrd)
-X-CLOUD-TRACE-CONTEXT: 09e1024233b9384e1772609bb213317f/2911434591700513264;o=1, 09e1024233b9384e1772609bb213317f/9781401003180767271;o=1
+USER-AGENT: python-requests/2.22.0
 X-FORWARDED-PORT: 80
 X-FORWARDED-PROTO: http
-X-FORWARDED-FOR: 107.178.194.109, 172.69.70.94, 172.30.99.240
-X-UA-DEVICE: bot
+X-FORWARDED-FOR: 81.97.99.245, 162.158.158.162, 172.30.99.240
+X-UA-DEVICE: pc
 ACCEPT-ENCODING: gzip
-X-VARNISH: 808944723
+X-VARNISH: 920355633
 [caches] cluster: MemcachedPeclBagOStuff, WAN: mediawiki-main-default, stash: db-replicated, message: MemcachedPeclBagOStuff, parser: MemcachedPeclBagOStuff, session: MemcachedPeclBagOStuff
 [caches] LocalisationCache: using store LCStoreCDB
 [CryptRand] 0 bytes of randomness leftover in the buffer.
-[objectcache] get(themozz_mediawiki:MWSession:rprompgd0k4m5ql7kdnkga406bdcps79)
+[objectcache] get(themozz_mediawiki:MWSession:3ppkeh7qsvml4g6e0vc3q0v975mpv83s)
 [objectcache] result: NOT FOUND
-[session] SessionBackend "rprompgd0k4m5ql7kdnkga406bdcps79" is unsaved, marking dirty in constructor
-[session] SessionBackend "rprompgd0k4m5ql7kdnkga406bdcps79" save: dataDirty=1 metaDirty=1 forcePersist=0
-[cookie] already deleted setcookie: "themozz_mediawiki_session", "", "1553685389", "/", "", "", "1"
-[cookie] already deleted setcookie: "themozz_mediawikiUserID", "", "1553685389", "/", "", "", "1"
-[cookie] already deleted setcookie: "themozz_mediawikiToken", "", "1553685389", "/", "", "", "1"
-[cookie] already deleted setcookie: "forceHTTPS", "", "1553685389", "/", ".bulbagarden.net", "", "1"
-[cookie] already deleted setcookie: "forceHTTPS", "", "1553685389", "/", "", "", "1"
-[cookie] already deleted setcookie: "bulbawiki_User", "", "1553685389", "/", ".bulbagarden.net", "", "1"
-[cookie] already deleted setcookie: "bulbawiki_Token", "", "1553685389", "/", ".bulbagarden.net", "", "1"
-[cookie] already deleted setcookie: "bulbawiki_Session", "", "1553685389", "/", ".bulbagarden.net", "", "1"
+[session] SessionBackend "3ppkeh7qsvml4g6e0vc3q0v975mpv83s" is unsaved, marking dirty in constructor
+[session] SessionBackend "3ppkeh7qsvml4g6e0vc3q0v975mpv83s" save: dataDirty=1 metaDirty=1 forcePersist=0
+[cookie] already deleted setcookie: "themozz_mediawiki_session", "", "1553683967", "/", "", "", "1"
+[cookie] already deleted setcookie: "themozz_mediawikiUserID", "", "1553683967", "/", "", "", "1"
+[cookie] already deleted setcookie: "themozz_mediawikiToken", "", "1553683967", "/", "", "", "1"
+[cookie] already deleted setcookie: "forceHTTPS", "", "1553683967", "/", ".bulbagarden.net", "", "1"
+[cookie] already deleted setcookie: "forceHTTPS", "", "1553683967", "/", "", "", "1"
+[cookie] already deleted setcookie: "bulbawiki_User", "", "1553683967", "/", ".bulbagarden.net", "", "1"
+[cookie] already deleted setcookie: "bulbawiki_Token", "", "1553683967", "/", ".bulbagarden.net", "", "1"
+[cookie] already deleted setcookie: "bulbawiki_Session", "", "1553683967", "/", ".bulbagarden.net", "", "1"
 Unstubbing $wgParser on call of $wgParser::setHook from require_once
 Parser: using preprocessor: Preprocessor_DOM
 [DBReplication] Wikimedia\Rdbms\LBFactory::getChronologyProtector: using request info {
-    "IPAddress": "107.178.194.109",
-    "UserAgent": "Mozilla\/5.0 (compatible; SemrushBot\/6~bl; +http:\/\/www.semrush.com\/bot.html) AppEngine-Google; (+http:\/\/code.google.com\/appengine; appid: s~they-encounter-hrd)",
+    "IPAddress": "81.97.99.245",
+    "UserAgent": "python-requests\/2.22.0",
     "ChronologyProtection": false
 }
 [DBConnection] Wikimedia\Rdbms\LoadBalancer::openConnection: calling initLB() before first connection.
 [DBConnection] Connected to database 0 at '10.150.66.155'.
-[DBQuery] themozz_mediawiki BEGIN /* Wikimedia\Rdbms\Database::query (WikiPage::pageData) 107.178.194.109 */
-[DBQuery] themozz_mediawiki SELECT /* WikiPage::pageData 107.178.194.109 */  page_id,page_namespace,page_title,page_restrictions,page_is_redirect,page_is_new,page_random,page_touched,page_links_updated,page_latest,page_len,page_content_model  FROM `page`    WHERE page_namespace = '0' AND page_title = 'List_of_Pokémon_by_body_style'  LIMIT 1
+[DBQuery] themozz_mediawiki BEGIN /* Wikimedia\Rdbms\Database::query (WikiPage::pageData) 81.97.99.245 */
+[DBQuery] themozz_mediawiki SELECT /* WikiPage::pageData 81.97.99.245 */  page_id,page_namespace,page_title,page_restrictions,page_is_redirect,page_is_new,page_random,page_touched,page_links_updated,page_latest,page_len,page_content_model  FROM `page`    WHERE page_namespace = '0' AND page_title = 'List_of_Pokémon_by_body_style'  LIMIT 1
 [objectcache] getMulti(WANCache:v:themozz_mediawiki:page-restrictions:247917:3116423)
 Title::getRestrictionTypes: applicable restrictions to [[List of Pokémon by body style]] are {edit,move}
 [objectcache] getMulti(WANCache:v:themozz_mediawiki:page:content-model:3116423)
@@ -10262,25 +10260,22 @@ Title::getRestrictionTypes: applicable restrictions to [[List of Pokémon by bod
 [objectcache] getMulti(WANCache:v:themozz_mediawiki:messages:en:hash:v1, WANCache:t:themozz_mediawiki:messages:en)
 [objectcache] get(themozz_mediawiki:messages:en)
 [MessageCache] MessageCache::load: Loading en... local cache is empty, got from global cache
-[DBQuery] themozz_mediawiki SELECT /* WikiPage::getRedirectTarget 107.178.194.109 */  rd_namespace,rd_title,rd_fragment,rd_interwiki  FROM `redirect`    WHERE rd_from = '247917'  LIMIT 1
-[DBQuery] themozz_mediawiki SELECT /* WikiPage::pageData 107.178.194.109 */  page_id,page_namespace,page_title,page_restrictions,page_is_redirect,page_is_new,page_random,page_touched,page_links_updated,page_latest,page_len,page_content_model  FROM `page`    WHERE page_namespace = '0' AND page_title = 'List_of_Pokémon_by_shape'  LIMIT 1
+[DBQuery] themozz_mediawiki SELECT /* WikiPage::getRedirectTarget 81.97.99.245 */  rd_namespace,rd_title,rd_fragment,rd_interwiki  FROM `redirect`    WHERE rd_from = '247917'  LIMIT 1
+[DBQuery] themozz_mediawiki SELECT /* WikiPage::pageData 81.97.99.245 */  page_id,page_namespace,page_title,page_restrictions,page_is_redirect,page_is_new,page_random,page_touched,page_links_updated,page_latest,page_len,page_content_model  FROM `page`    WHERE page_namespace = '0' AND page_title = 'List_of_Pokémon_by_shape'  LIMIT 1
 [objectcache] getMulti(WANCache:v:themozz_mediawiki:page-restrictions:42692:3121914)
 Title::getRestrictionTypes: applicable restrictions to [[List of Pokémon by shape]] are {edit,move}
 [objectcache] getMulti(WANCache:v:themozz_mediawiki:page:content-model:3121914)
-[DBQuery] themozz_mediawiki SELECT /* Title::getTouched 107.178.194.109 */  page_touched  FROM `page`    WHERE page_id = '247917'  LIMIT 1
+[DBQuery] themozz_mediawiki SELECT /* Title::getTouched 81.97.99.245 */  page_touched  FROM `page`    WHERE page_id = '247917'  LIMIT 1
 [objectcache] get(WANCache:t:themozz_mediawiki:gadgets-definition:9:2)
 [objectcache] getMulti(WANCache:v:themozz_mediawiki:gadgets-definition:9:2, WANCache:t:themozz_mediawiki:gadgets-definition:9:2)
-[DBQuery] themozz_mediawiki SELECT /* Revision::fetchFromConds 107.178.194.109 */  rev_id,rev_page,rev_text_id,rev_timestamp,rev_comment,rev_user_text,rev_user,rev_minor_edit,rev_deleted,rev_len,rev_parent_id,rev_sha1,rev_content_format,rev_content_model,page_namespace,page_title,page_id,page_latest,page_is_redirect,page_len,user_name  FROM `revision` INNER JOIN `page` ON ((page_id = rev_page)) LEFT JOIN `user` ON ((rev_user != 0) AND (user_id = rev_user))   WHERE page_namespace = '8' AND page_title = 'Gadgets-definition' AND (rev_id=page_latest)  LIMIT 1
+[DBQuery] themozz_mediawiki SELECT /* Revision::fetchFromConds 81.97.99.245 */  rev_id,rev_page,rev_text_id,rev_timestamp,rev_comment,rev_user_text,rev_user,rev_minor_edit,rev_deleted,rev_len,rev_parent_id,rev_sha1,rev_content_format,rev_content_model,page_namespace,page_title,page_id,page_latest,page_is_redirect,page_len,user_name  FROM `revision` INNER JOIN `page` ON ((page_id = rev_page)) LEFT JOIN `user` ON ((rev_user != 0) AND (user_id = rev_user))   WHERE page_namespace = '8' AND page_title = 'Gadgets-definition' AND (rev_id=page_latest)  LIMIT 1
 Unstubbing $wgLang on call of $wgLang::_unstub from ParserOptions-&gt;__construct
 [objectcache] getMulti(WANCache:v:themozz_mediawiki:page:content-model:3121914)
 User::getBlockedStatus: checking...
-[DBQuery] themozz_mediawiki SELECT /* Block::newLoad 107.178.194.109 */  ipb_id,ipb_address,ipb_by,ipb_by_text,ipb_reason,ipb_timestamp,ipb_auto,ipb_anon_only,ipb_create_account,ipb_enable_autoblock,ipb_expiry,ipb_deleted,ipb_block_email,ipb_allow_usertalk,ipb_parent_block_id  FROM `ipblocks`    WHERE ipb_address IN ('107.178.194.109','107.178.194.109')  OR ((ipb_range_start  LIKE '6BB2%' ESCAPE '`' ) AND (ipb_range_start &lt;= '6BB2C26D') AND (ipb_range_end &gt;= '6BB2C26D'))
+[DBQuery] themozz_mediawiki SELECT /* Block::newLoad 81.97.99.245 */  ipb_id,ipb_address,ipb_by,ipb_by_text,ipb_reason,ipb_timestamp,ipb_auto,ipb_anon_only,ipb_create_account,ipb_enable_autoblock,ipb_expiry,ipb_deleted,ipb_block_email,ipb_allow_usertalk,ipb_parent_block_id  FROM `ipblocks`    WHERE ipb_address IN ('81.97.99.245','81.97.99.245')  OR ((ipb_range_start  LIKE '5161%' ESCAPE '`' ) AND (ipb_range_start &lt;= '516163F5') AND (ipb_range_end &gt;= '516163F5'))
 [DBConnection] Wikimedia\Rdbms\LoadBalancer::openConnection: calling initLB() before first connection.
 [DBConnection] Connected to database 0 at '10.150.66.155'.
-[DBQuery] themozz_mediawiki SELECT /* SqlBagOStuff::getMulti 107.178.194.109 */  keyname,value,exptime  FROM `objectcache`    WHERE keyname = 'mw-tor-exit-nodes'
-[DBQuery] themozz_mediawiki SELECT /* SqlBagOStuff::getMulti 107.178.194.109 */  keyname,value,exptime  FROM `objectcache`    WHERE keyname = 'mw-tor-list-status'
-[DBQuery] themozz_mediawiki SELECT /* SqlBagOStuff::getMulti 107.178.194.109 */  keyname,value,exptime  FROM `objectcache`    WHERE keyname = 'mw-tor-exit-nodes'
-[torblock] Tried very hard to get the Tor list since mw-tor-list-status says it is loaded, to no avail.
+[DBQuery] themozz_mediawiki SELECT /* SqlBagOStuff::getMulti 81.97.99.245 */  keyname,value,exptime  FROM `objectcache`    WHERE keyname = 'mw-tor-exit-nodes'
 [objectcache] getMulti(WANCache:v:themozz_mediawiki:page:content-model:3121914)
 Article::view using parser cache: yes
 [objectcache] get(themozz_mediawiki:pcache:idoptions:42692)
@@ -10288,15 +10283,15 @@ Parser cache options found.
 [objectcache] get(themozz_mediawiki:pcache:idhash:42692-0!*!0!!en!5!*)
 ParserOutput cache found.
 Article::view: showing parser cache contents
-[DBQuery] themozz_mediawiki SELECT /* OutputPage::addCategoryLinksToLBAndGetResult 107.178.194.109 */  page_id,page_len,page_is_redirect,page_latest,page_content_model,page_namespace,page_title,pp_value  FROM `page` LEFT JOIN `page_props` ON (pp_propname = 'hiddencat' AND (pp_page = page_id))   WHERE (page_namespace = '14' AND page_title IN ('Lists_of_Pokémon','Lists','Pokémon_by_body_style') )
+[DBQuery] themozz_mediawiki SELECT /* OutputPage::addCategoryLinksToLBAndGetResult 81.97.99.245 */  page_id,page_len,page_is_redirect,page_latest,page_content_model,page_namespace,page_title,pp_value  FROM `page` LEFT JOIN `page_props` ON (pp_propname = 'hiddencat' AND (pp_page = page_id))   WHERE (page_namespace = '14' AND page_title IN ('Lists_of_Pokémon','Lists','Pokémon_by_body_style') )
 [objectcache] getMulti(WANCache:v:global:Wikimedia\Rdbms\LoadBalancer:server-read-only:10.150.66.155)
 MediaWiki::preOutputCommit: primary transaction round committed
 MediaWiki::preOutputCommit: pre-send deferred updates completed
 MediaWiki::preOutputCommit: LBFactory shutdown completed
-[DBQuery] themozz_mediawiki SELECT /* PageImages::getPageImage 107.178.194.109 */  pp_value  FROM `page_props`    WHERE pp_page = '42692' AND pp_propname IN ('page_image','page_image_free')   ORDER BY pp_propname LIMIT 1
+[DBQuery] themozz_mediawiki SELECT /* PageImages::getPageImage 81.97.99.245 */  pp_value  FROM `page_props`    WHERE pp_page = '42692' AND pp_propname IN ('page_image','page_image_free')   ORDER BY pp_propname LIMIT 1
 [objectcache] getMulti(WANCache:v:themozz_mediawiki:page:content-model:3121914)
-[DBQuery] themozz_mediawiki SELECT /* LinkBatch::doQuery (for Skin::preloadExistence) 107.178.194.109 */  page_id,page_len,page_is_redirect,page_latest,page_content_model,page_namespace,page_title  FROM `page`    WHERE (page_namespace = '1' AND page_title = 'List_of_Pokémon_by_shape') OR (page_namespace = '4' AND page_title IN ('Privacy_policy','About','General_disclaimer') )
-[DBQuery] themozz_mediawiki SELECT /* User::checkNewtalk 107.178.194.109 */  user_ip  FROM `user_newtalk`    WHERE user_ip = '107.178.194.109'  LIMIT 1
+[DBQuery] themozz_mediawiki SELECT /* LinkBatch::doQuery (for Skin::preloadExistence) 81.97.99.245 */  page_id,page_len,page_is_redirect,page_latest,page_content_model,page_namespace,page_title  FROM `page`    WHERE (page_namespace = '1' AND page_title = 'List_of_Pokémon_by_shape') OR (page_namespace = '4' AND page_title IN ('Privacy_policy','About','General_disclaimer') )
+[DBQuery] themozz_mediawiki SELECT /* User::checkNewtalk 81.97.99.245 */  user_ip  FROM `user_newtalk`    WHERE user_ip = '81.97.99.245'  LIMIT 1
 [objectcache] get(themozz_mediawiki:sitenotice)
 [objectcache] getMulti(WANCache:v:themozz_mediawiki:page:content-model:3121914)
 [objectcache] getMulti(WANCache:v:themozz_mediawiki:interwiki:de)
@@ -10313,6 +10308,6 @@ Title::getRestrictionTypes: applicable restrictions to [[List of Pokémon by sha
 [objectcache] get(global:resourceloader:filter:minify-js:7:6895d0583b1c8796e739e87abafce5bf)
 [objectcache] getMulti(WANCache:v:themozz_mediawiki:page:content-model:3121914)
 
---><script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"3.304","walltime":"7.387","ppvisitednodes":{"value":45878,"limit":1000000},"ppgeneratednodes":{"value":59438,"limit":1000000},"postexpandincludesize":{"value":590774,"limit":2097152},"templateargumentsize":{"value":84274,"limit":2097152},"expansiondepth":{"value":6,"limit":40},"expensivefunctioncount":{"value":0,"limit":100},"timingprofile":["100.00% 1513.133      1 -total"," 83.58% 1264.647    909 Template:Ndex"," 11.80%  178.501    452 Template:Moveentry/type"," 11.52%  174.332    909 Template:MS","  9.83%  148.668    931 Template:P","  1.87%   28.267     14 Template:Ndexh","  1.70%   25.754      1 Template:Langtable","  0.75%   11.380      1 Template:Pokelist","  0.45%    6.864    143 Template:Water_color","  0.41%    6.228    115 Template:Normal_color"]},"cachereport":{"timestamp":"20200325130849","ttl":86400,"transientcontent":false}}});});</script><script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":85});});</script><div id="cdm-zone-end"></div>
+--><script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"3.304","walltime":"7.387","ppvisitednodes":{"value":45878,"limit":1000000},"ppgeneratednodes":{"value":59438,"limit":1000000},"postexpandincludesize":{"value":590774,"limit":2097152},"templateargumentsize":{"value":84274,"limit":2097152},"expansiondepth":{"value":6,"limit":40},"expensivefunctioncount":{"value":0,"limit":100},"timingprofile":["100.00% 1513.133      1 -total"," 83.58% 1264.647    909 Template:Ndex"," 11.80%  178.501    452 Template:Moveentry/type"," 11.52%  174.332    909 Template:MS","  9.83%  148.668    931 Template:P","  1.87%   28.267     14 Template:Ndexh","  1.70%   25.754      1 Template:Langtable","  0.75%   11.380      1 Template:Pokelist","  0.45%    6.864    143 Template:Water_color","  0.41%    6.228    115 Template:Normal_color"]},"cachereport":{"timestamp":"20200325130849","ttl":86400,"transientcontent":false}}});});</script><script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":147});});</script><div id="cdm-zone-end"></div>
 <script type="text/javascript" src="https://ahost.bulbagarden.net/Content/bulbaendofbody.js"></script>
 </body></html>
