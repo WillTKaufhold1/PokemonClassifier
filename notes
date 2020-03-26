@@ -4,7 +4,7 @@
 <meta charset="UTF-8"/>
 <title>List of Pokémon by shape - Bulbapedia, the community-driven Pokémon encyclopedia</title>
 <script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
-<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"List_of_Pokémon_by_shape","wgTitle":"List of Pokémon by shape","wgCurRevisionId":3121914,"wgRevisionId":3121914,"wgArticleId":42692,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Lists of Pokémon","Lists","Pokémon by body style"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"List_of_Pokémon_by_shape","wgRelevantArticleId":42692,"wgRequestId":"01fd248df2791c18bf8d222e","wgIsProbablyEditable":false,"wgRestrictionEdit":[],"wgRestrictionMove":["sysop"],"wgRedirectedFrom":"List_of_Pokémon_by_body_style","wgWikiEditorEnabledModules":{"toolbar":false,"dialogs":false,"preview":false,"publish":false},"wgPreferredVariant":"en","wgMFDisplayWikibaseDescriptions":{"search":false,"nearby":false,"watchlist":false,"tagline":false},"wgInternalRedirectTargetUrl":"/wiki/List_of_Pok%C3%A9mon_by_shape"});mw.loader.state({"site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"loading","user.tokens":"loading","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","mediawiki.skinning.content.externallinks":"ready","skins.monobook.styles":"ready"});mw.loader.implement("user.options@0j3lz3q",function($,jQuery,require,module){mw.user.options.set({"variant":"en"});});mw.loader.implement("user.tokens@0nrek0d",function ( $, jQuery, require, module ) {
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"List_of_Pokémon_by_shape","wgTitle":"List of Pokémon by shape","wgCurRevisionId":3121914,"wgRevisionId":3121914,"wgArticleId":42692,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Lists of Pokémon","Lists","Pokémon by body style"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"List_of_Pokémon_by_shape","wgRelevantArticleId":42692,"wgRequestId":"eae4f27780414988654c7fc3","wgIsProbablyEditable":false,"wgRestrictionEdit":[],"wgRestrictionMove":["sysop"],"wgRedirectedFrom":"List_of_Pokémon_by_body_style","wgWikiEditorEnabledModules":{"toolbar":false,"dialogs":false,"preview":false,"publish":false},"wgPreferredVariant":"en","wgMFDisplayWikibaseDescriptions":{"search":false,"nearby":false,"watchlist":false,"tagline":false},"wgInternalRedirectTargetUrl":"/wiki/List_of_Pok%C3%A9mon_by_shape"});mw.loader.state({"site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"loading","user.tokens":"loading","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","mediawiki.skinning.content.externallinks":"ready","skins.monobook.styles":"ready"});mw.loader.implement("user.options@0j3lz3q",function($,jQuery,require,module){mw.user.options.set({"variant":"en"});});mw.loader.implement("user.tokens@0nrek0d",function ( $, jQuery, require, module ) {
 mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});/*@nomin*/;
 
 });mw.loader.load(["mediawiki.action.view.redirect","mediawiki.toc","mediawiki.action.view.postEdit","site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest"]);});</script>
@@ -9311,11 +9311,11 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 
 <!-- 
 NewPP limit report
-Cached time: 20200325130849
+Cached time: 20200326131239
 Cache expiry: 86400
 Dynamic content: false
-CPU time usage: 3.304 seconds
-Real time usage: 7.387 seconds
+CPU time usage: 3.344 seconds
+Real time usage: 7.431 seconds
 Preprocessor visited node count: 45878/1000000
 Preprocessor generated node count: 59438/1000000
 Post‐expand include size: 590774/2097152 bytes
@@ -9325,19 +9325,19 @@ Expensive parser function count: 0/100
 -->
 <!--
 Transclusion expansion time report (%,ms,calls,template)
-100.00% 1513.133      1 -total
- 83.58% 1264.647    909 Template:Ndex
- 11.80%  178.501    452 Template:Moveentry/type
- 11.52%  174.332    909 Template:MS
-  9.83%  148.668    931 Template:P
-  1.87%   28.267     14 Template:Ndexh
-  1.70%   25.754      1 Template:Langtable
-  0.75%   11.380      1 Template:Pokelist
-  0.45%    6.864    143 Template:Water_color
-  0.41%    6.228    115 Template:Normal_color
+100.00% 1539.645      1 -total
+ 83.46% 1285.041    909 Template:Ndex
+ 11.87%  182.758    452 Template:Moveentry/type
+ 11.48%  176.681    909 Template:MS
+  9.68%  149.025    931 Template:P
+  1.88%   29.000      1 Template:Langtable
+  1.77%   27.233     14 Template:Ndexh
+  0.82%   12.623      1 Template:Pokelist
+  0.46%    7.099    143 Template:Water_color
+  0.41%    6.291    115 Template:Normal_color
 -->
 
-<!-- Saved in parser cache with key themozz_mediawiki:pcache:idhash:42692-0!*!0!!en!5!* and timestamp 20200325130841 and revision id 3121914
+<!-- Saved in parser cache with key themozz_mediawiki:pcache:idhash:42692-0!*!0!!en!5!* and timestamp 20200326131232 and revision id 3121914
  -->
 </div><div class="printfooter">
 Retrieved from "<a dir="ltr" href="https://bulbapedia.bulbagarden.net/w/index.php?title=List_of_Pokémon_by_shape&amp;oldid=3121914">https://bulbapedia.bulbagarden.net/w/index.php?title=List_of_Pokémon_by_shape&amp;oldid=3121914</a>"</div>
@@ -10218,30 +10218,31 @@ ACCEPT: */*
 CDN-LOOP: cloudflare
 CF-CONNECTING-IP: 81.97.99.245
 CF-IPCOUNTRY: GB
-CF-RAY: 57a052faadf4ce43-LHR
+CF-RAY: 57a239e74cf1ce7b-LHR
 CF-VISITOR: {"scheme":"https"}
 USER-AGENT: python-requests/2.22.0
 X-FORWARDED-PORT: 80
 X-FORWARDED-PROTO: http
-X-FORWARDED-FOR: 81.97.99.245, 162.158.158.162, 172.30.99.240
+X-FORWARDED-FOR: 81.97.99.245, 141.101.107.185, 172.30.99.240
 X-UA-DEVICE: pc
 ACCEPT-ENCODING: gzip
-X-VARNISH: 920355633
+IF-MODIFIED-SINCE: Thu, 26 Mar 2020 06:16:29 GMT
+X-VARNISH: 926516569
 [caches] cluster: MemcachedPeclBagOStuff, WAN: mediawiki-main-default, stash: db-replicated, message: MemcachedPeclBagOStuff, parser: MemcachedPeclBagOStuff, session: MemcachedPeclBagOStuff
 [caches] LocalisationCache: using store LCStoreCDB
 [CryptRand] 0 bytes of randomness leftover in the buffer.
-[objectcache] get(themozz_mediawiki:MWSession:3ppkeh7qsvml4g6e0vc3q0v975mpv83s)
+[objectcache] get(themozz_mediawiki:MWSession:3jgg18tg4nvojj3tehmmk1q74js65v07)
 [objectcache] result: NOT FOUND
-[session] SessionBackend "3ppkeh7qsvml4g6e0vc3q0v975mpv83s" is unsaved, marking dirty in constructor
-[session] SessionBackend "3ppkeh7qsvml4g6e0vc3q0v975mpv83s" save: dataDirty=1 metaDirty=1 forcePersist=0
-[cookie] already deleted setcookie: "themozz_mediawiki_session", "", "1553683967", "/", "", "", "1"
-[cookie] already deleted setcookie: "themozz_mediawikiUserID", "", "1553683967", "/", "", "", "1"
-[cookie] already deleted setcookie: "themozz_mediawikiToken", "", "1553683967", "/", "", "", "1"
-[cookie] already deleted setcookie: "forceHTTPS", "", "1553683967", "/", ".bulbagarden.net", "", "1"
-[cookie] already deleted setcookie: "forceHTTPS", "", "1553683967", "/", "", "", "1"
-[cookie] already deleted setcookie: "bulbawiki_User", "", "1553683967", "/", ".bulbagarden.net", "", "1"
-[cookie] already deleted setcookie: "bulbawiki_Token", "", "1553683967", "/", ".bulbagarden.net", "", "1"
-[cookie] already deleted setcookie: "bulbawiki_Session", "", "1553683967", "/", ".bulbagarden.net", "", "1"
+[session] SessionBackend "3jgg18tg4nvojj3tehmmk1q74js65v07" is unsaved, marking dirty in constructor
+[session] SessionBackend "3jgg18tg4nvojj3tehmmk1q74js65v07" save: dataDirty=1 metaDirty=1 forcePersist=0
+[cookie] already deleted setcookie: "themozz_mediawiki_session", "", "1553703911", "/", "", "", "1"
+[cookie] already deleted setcookie: "themozz_mediawikiUserID", "", "1553703911", "/", "", "", "1"
+[cookie] already deleted setcookie: "themozz_mediawikiToken", "", "1553703911", "/", "", "", "1"
+[cookie] already deleted setcookie: "forceHTTPS", "", "1553703911", "/", ".bulbagarden.net", "", "1"
+[cookie] already deleted setcookie: "forceHTTPS", "", "1553703911", "/", "", "", "1"
+[cookie] already deleted setcookie: "bulbawiki_User", "", "1553703911", "/", ".bulbagarden.net", "", "1"
+[cookie] already deleted setcookie: "bulbawiki_Token", "", "1553703911", "/", ".bulbagarden.net", "", "1"
+[cookie] already deleted setcookie: "bulbawiki_Session", "", "1553703911", "/", ".bulbagarden.net", "", "1"
 Unstubbing $wgParser on call of $wgParser::setHook from require_once
 Parser: using preprocessor: Preprocessor_DOM
 [DBReplication] Wikimedia\Rdbms\LBFactory::getChronologyProtector: using request info {
@@ -10276,6 +10277,9 @@ User::getBlockedStatus: checking...
 [DBConnection] Wikimedia\Rdbms\LoadBalancer::openConnection: calling initLB() before first connection.
 [DBConnection] Connected to database 0 at '10.150.66.155'.
 [DBQuery] themozz_mediawiki SELECT /* SqlBagOStuff::getMulti 81.97.99.245 */  keyname,value,exptime  FROM `objectcache`    WHERE keyname = 'mw-tor-exit-nodes'
+[DBQuery] themozz_mediawiki SELECT /* SqlBagOStuff::getMulti 81.97.99.245 */  keyname,value,exptime  FROM `objectcache`    WHERE keyname = 'mw-tor-list-status'
+[DBQuery] themozz_mediawiki SELECT /* SqlBagOStuff::getMulti 81.97.99.245 */  keyname,value,exptime  FROM `objectcache`    WHERE keyname = 'mw-tor-exit-nodes'
+[torblock] Tried very hard to get the Tor list since mw-tor-list-status says it is loaded, to no avail.
 [objectcache] getMulti(WANCache:v:themozz_mediawiki:page:content-model:3121914)
 Article::view using parser cache: yes
 [objectcache] get(themozz_mediawiki:pcache:idoptions:42692)
@@ -10308,6 +10312,6 @@ Title::getRestrictionTypes: applicable restrictions to [[List of Pokémon by sha
 [objectcache] get(global:resourceloader:filter:minify-js:7:6895d0583b1c8796e739e87abafce5bf)
 [objectcache] getMulti(WANCache:v:themozz_mediawiki:page:content-model:3121914)
 
---><script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"3.304","walltime":"7.387","ppvisitednodes":{"value":45878,"limit":1000000},"ppgeneratednodes":{"value":59438,"limit":1000000},"postexpandincludesize":{"value":590774,"limit":2097152},"templateargumentsize":{"value":84274,"limit":2097152},"expansiondepth":{"value":6,"limit":40},"expensivefunctioncount":{"value":0,"limit":100},"timingprofile":["100.00% 1513.133      1 -total"," 83.58% 1264.647    909 Template:Ndex"," 11.80%  178.501    452 Template:Moveentry/type"," 11.52%  174.332    909 Template:MS","  9.83%  148.668    931 Template:P","  1.87%   28.267     14 Template:Ndexh","  1.70%   25.754      1 Template:Langtable","  0.75%   11.380      1 Template:Pokelist","  0.45%    6.864    143 Template:Water_color","  0.41%    6.228    115 Template:Normal_color"]},"cachereport":{"timestamp":"20200325130849","ttl":86400,"transientcontent":false}}});});</script><script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":147});});</script><div id="cdm-zone-end"></div>
+--><script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"3.344","walltime":"7.431","ppvisitednodes":{"value":45878,"limit":1000000},"ppgeneratednodes":{"value":59438,"limit":1000000},"postexpandincludesize":{"value":590774,"limit":2097152},"templateargumentsize":{"value":84274,"limit":2097152},"expansiondepth":{"value":6,"limit":40},"expensivefunctioncount":{"value":0,"limit":100},"timingprofile":["100.00% 1539.645      1 -total"," 83.46% 1285.041    909 Template:Ndex"," 11.87%  182.758    452 Template:Moveentry/type"," 11.48%  176.681    909 Template:MS","  9.68%  149.025    931 Template:P","  1.88%   29.000      1 Template:Langtable","  1.77%   27.233     14 Template:Ndexh","  0.82%   12.623      1 Template:Pokelist","  0.46%    7.099    143 Template:Water_color","  0.41%    6.291    115 Template:Normal_color"]},"cachereport":{"timestamp":"20200326131239","ttl":86400,"transientcontent":false}}});});</script><script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":114});});</script><div id="cdm-zone-end"></div>
 <script type="text/javascript" src="https://ahost.bulbagarden.net/Content/bulbaendofbody.js"></script>
 </body></html>
